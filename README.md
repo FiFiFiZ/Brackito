@@ -1,6 +1,6 @@
 # Brackito!
 
-![Brackito Logo](https://github.com/user-attachments/assets/73fe952b-270a-430c-9875-6d16ac63cf63)
+![Brackito Logo](https://github.com/user-attachments/assets/1bb3d922-ff99-4211-8e7a-7caeed7c90e0)
 
 **Brackito** is a simple yet feature-rich **cloud**-enabled tournament **bracket editor and visualizer**!
 
